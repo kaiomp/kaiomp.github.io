@@ -1,9 +1,8 @@
-<span id="a">admin@kmp</span>:<span id="b">~</span><span id="c">$</span> cd KMP/<!-- kjsdfhkjdhsfkjdshfkj -->Solutions
+<span id="a">admin@kmp</span>:<span id="b">~</span><span id="c">$</span> cd kmp.soultions/<!-- kjsdfhkjdhsfkjdshfkj -->main
 <span id="a">admin@kmp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/><br/>
 innovative solutions to quantitative systems<!-- sjkfhskjf -->
 
 <p>architecturing, developing, consulting and licensing</p>
-
 
 <p></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>profit management and natural growth strategies for balanced profit
@@ -15,5 +14,7 @@ innovative solutions to quantitative systems<!-- sjkfhskjf -->
 <br>
 "mathematics is the language of nature."
 <span id="b">Fibonacci</span><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<br>
+<br>
 <br>
 <p>© 2020 kmp.solutions</p>
