@@ -2,13 +2,17 @@
 <span id="a">admin@kmp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/><br/>
 Innovative solutions to quantitative systems<!-- sjkfhskjf -->
 
-<p>Architecturing, developing, consulting and licensing.</p>
+<p>Architecturing, developing, consulting and licensing</p>
 
-Measure what is measurable, and make measurable what is not so.<span id="b">Galileo Galilei</span><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+"Measure what is measurable, and make measurable what is not so"
+<span id="b">Galileo Galilei</span><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <p></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>Profit management and natural growth strategies for balanced profit.<a href="#"> Portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Profit management and natural growth strategies for balanced profit
+<a href="#"> Portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <!-- slightdelayhere-->Get in touch at <!-- longlonglongcomment --><a href="kaio@kmp.solutions">kaio@kmp.solutions</a>
-
+<br>
+<br>
+<br>
 <p>© 2020 kmp.solutions</p>
