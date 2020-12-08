@@ -2,7 +2,7 @@
 <span id="a">admin@kmp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/><br/>
 innovative solutions to quantitative systems<!-- sjkfhskjf -->
 
-<p>engineering, development, consulting and licensing</p>
+<p>engineering, developing, consulting and licensing</p>
 
 <p></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>profit management & natural growth strategies for balanced profit
